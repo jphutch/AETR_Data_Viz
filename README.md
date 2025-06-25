@@ -1,2 +1,4 @@
-# AETR_Data_Viz
-Code and materials for "Data Visualization in Applied Economics Instruction and Outreach"
+# "Data Visualization in Applied Economics Instruction and Outreach"
+### Jared Hutchins and Andrew J. Van Leuven
+
+Code and materials for the article "Data Visualization in Applied Economics Instruction and Outreach"
